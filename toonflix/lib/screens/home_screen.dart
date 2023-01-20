@@ -86,7 +86,7 @@ class _HomeState extends State<Home> {
             ),
           ),
           Flexible(
-            flex: 2,
+            flex: 1,
             child: Center(
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.center,
